@@ -309,5 +309,17 @@
         object-fit: cover;
         
     }
+
+    .arrow {
+        height: 90px;
+        top : 250px;
+        
+    }
+
+    .text{
+        position: absolute;
+        font-size: 70px;
+        text-align: center;
+    }
 }
 
